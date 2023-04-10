@@ -60,24 +60,24 @@ content:
     layout: list
     content:
       - layout: left
-        title: Reserve Bank of Australia
+        title: Reserve Bank of Australia (RBA)
         sub_title: Technical Lead
         caption: July 2021 - present
         # link: Link to company (optional)
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          • Led and performed ERP (PeopleSoft) upgrade and infrastructure refresh at the Bank
-          • Deliver roadmaps and strategies for keeping technology current and aligned to business
-          • Led critical incident management attaining business awards for excellence from C-suite
-          • Maintain the currency and availability of applications as per SLAs
-          • Participate in disaster recovery exercises and develop remediation outcomes
-          • Work closely with Business on requirements to deliver outcome based solutions
-          • Proactively engage vendors to ensure product delivery within agreed timelines and costs
-          • Assist developers, review code, and implement CI/CD pipelines for deployment to Production
-          • Aid transformation project to Workday with requirements analysis, design, and delivery of products
-          • Prepare network diagrams, operating procedures and solution architecture design documents
-          • Enable application monitoring through integration with the ELK stack
+          - Led and performed ERP (PeopleSoft) upgrade and infrastructure refresh at the Bank
+          - Deliver roadmaps and strategies for keeping technology current and aligned to business
+          - Led critical incident management attaining business awards for excellence from C-suite
+          - Maintain the currency and availability of applications as per SLAs
+          - Participate in disaster recovery exercises and develop remediation outcomes
+          - Work closely with Business on requirements to deliver outcome based solutions
+          - Proactively engage vendors to ensure product delivery within agreed timelines and costs
+          - Assist developers, review code, and implement CI/CD pipelines for deployment to Production
+          - Aid transformation project to Workday with requirements analysis, design, and delivery of products
+          - Prepare network diagrams, operating procedures and solution architecture design documents
+          - Enable application monitoring through integration with the ELK stack
   - title: Education
     layout: list
     content:
