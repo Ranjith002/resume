@@ -112,7 +112,7 @@ content:
           - Worked with Cloud vendors on infra and analyse usage reporting for cost optimisation
           - Led discovery work for early adopter projects on nationwide payroll reporting
           - Presented on innovation and early adoption of Cloud products, nationally and internationally,
-            including at OOW, San Francisco
+            <br>including at OOW, San Francisco
           - Effectively led and supported team members to ensure timely delivery for multiple clients.
           - Trained users on sysadmin activities and patching methods as part of BAU
        
@@ -124,7 +124,7 @@ content:
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Conducted requirements analysis, engaged with business and performed the upgrade/transformation activities for legacy ERP (PeopleSoft) end to end
+          - Conducted requirements analysis, engaged with business and performed the <br>upgrade/transformation activities for legacy ERP (PeopleSoft) end to end
           - Administered Unix and Windows systems for application and database activities
           - Performed the Release Management activities as per project requirements
           - Utilised shell scripts for automating process handling for application and web servers
@@ -139,7 +139,7 @@ content:
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Created, configured ERP(PeopleSoft) servers for multiple clients and supported upgrades
-          - Designed and implemented security solutions for projects, developed and tested programs to
+          - Designed and implemented security solutions for projects, developed and tested programs <br> to
             automate user profile creation for a large US retail giant
           - Prepared training materials and trained teams on business support initiatives
           - Trained users and team members in Security and Administration activities
@@ -153,6 +153,7 @@ content:
     content:
       - layout: top-left
         title: Amrita School of Engineering
+      - layout: top-right
         sub_title: Bachelor of Technology
         caption: 2005 - 2009  
         #quote: >
