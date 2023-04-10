@@ -10,7 +10,7 @@ name: Ranjith Ramachandran
 # title: Your job title
 email: mail@ranjithramachandran.com
 # email_title: Email (Email title override)
-phone: +61 424 031 817
+# phone: +61 424 031 817
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -87,7 +87,7 @@ content:
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Performed ERP (PeopleSoft) upgrades across Finance, Campus Solutions and Human Capital Management systems
+          - Performed ERP (PeopleSoft) upgrades across Finance, Campus Solutions and HCM systems
           - Architected and built resilient database clusters and VMs for the university’s top tier systems
           - Designed a security data masking solution for PII (Personally Identifiable Information)
           - Implemented automation processes that improved efficiency by 95% for Business users
@@ -95,18 +95,73 @@ content:
           - Proactively engaged with business, infrastructure and development teams for issue resolution
           - Helped implement CI/CD pipelines with focus on governance and auditing requirements
           - Delivered efficiency improvements to performance, integrations and testing frameworks
+          
+      - layout: left
+        title: Presence of IT (acquired by Deloitte)
+        sub_title: Technical Consultant/Lead
+        caption: Jul 2016 - Sep 2019
+        # link: Link to company (optional)
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Designed, implemented, upgraded and supported ERP (PeopleSoft) systems for multiple clients
+          - Designed Production and non-Production architecture for infrastructure deployment 
+          - Led discovery exercises into emerging Chatbots platforms on ERP systems
+          - Designed and delivered lift and shift of application from on premise to Cloud
+          - Evaluated customer environments and assess impact on the current processes and data
+          - Worked with Cloud vendors on infra and analyse usage reporting for cost optimisation
+          - Led discovery work for early adopter projects on nationwide payroll reporting
+          - Presented on innovation and early adoption of Cloud products, nationally and internationally,
+            including at OOW, San Francisco
+          - Effectively led and supported team members to ensure timely delivery for multiple clients.
+          - Trained users on sysadmin activities and patching methods as part of BAU
+       
+      - layout: left
+        title: University of New South Wales (UNSW)
+        sub_title: Upgrade Specialist
+        caption: Jul 2015 - Sep 2016
+        # link: Link to company (optional)
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Conducted requirements analysis, engaged with business and performed the upgrade/transformation activities for legacy ERP (PeopleSoft) end to end
+          - Administered Unix and Windows systems for application and database activities
+          - Performed the Release Management activities as per project requirements
+          - Utilised shell scripts for automating process handling for application and web servers
+          - Tuned data conversion programs and performed database maintenance activities
+      
+      - layout: left
+        title: Infosys
+        sub_title: Sysadmin/Technology Analyst
+        caption: Nov 2009 - Jun 2015
+        # link: Link to company (optional)
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Created, configured ERP(PeopleSoft) servers for multiple clients and supported upgrades
+          - Designed and implemented security solutions for projects, developed and tested programs to
+            automate user profile creation for a large US retail giant
+          - Prepared training materials and trained teams on business support initiatives
+          - Trained users and team members in Security and Administration activities
+          - Integrated applications with external portals and resolved integration issues
+          - Performed fit-gap analysis and designed the technical architecture for upgrades
+          - Improved system performance post upgrades and handled data migrations
+          
+          
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+      - layout: top-left
+        title: Amrita School of Engineering
+        sub_title: Bachelor of Technology
+        caption: 2005 - 2009  
+        #quote: >
+          #Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of qualification
+         
+         
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
