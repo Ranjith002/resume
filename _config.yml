@@ -79,6 +79,7 @@ content:
           - Prepare network diagrams, operating procedures and solution architecture design documents
           - Enable application monitoring through integration with the ELK stack
         ---
+      - layout: left
         title: Australian National University (ANU)
         sub_title: Technical Consultant (ERP/Database)
         caption: Sep 2019 - Jun 2021
