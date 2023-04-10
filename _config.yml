@@ -78,7 +78,7 @@ content:
           - Aid transformation project to Workday with requirements analysis, design, and delivery of products
           - Prepare network diagrams, operating procedures and solution architecture design documents
           - Enable application monitoring through integration with the ELK stack
-        ---
+        
       - layout: left
         title: Australian National University (ANU)
         sub_title: Technical Consultant (ERP/Database)
