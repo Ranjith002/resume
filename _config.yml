@@ -34,10 +34,10 @@ linkedin_username: ranjithr02
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,47 +52,32 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/LinkedIn5.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Technology Enthusiast with over 13+ years of experience in technical development, infrastructure and cloud solutions, ERP implementations and upgrades, vendor and project management, IT-business engagement and stakeholder management
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
+  
+  - title: Work Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: Reserve Bank of Australia
+        sub_title: Technical Lead
+        caption: July 2021 - present
+        # link: Link to company (optional)
+        # quote: >
+          # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          • Led and performed ERP (PeopleSoft) upgrade and infrastructure refresh at the Bank
+          • Deliver roadmaps and strategies for keeping technology current and aligned to business
+          • Led critical incident management attaining business awards for excellence from C-suite
+          • Maintain the currency and availability of applications as per SLAs
+          • Participate in disaster recovery exercises and develop remediation outcomes
+          • Work closely with Business on requirements to deliver outcome based solutions
+          • Proactively engage vendors to ensure product delivery within agreed timelines and costs
+          • Assist developers, review code, and implement CI/CD pipelines for deployment to Production
+          • Aid transformation project to Workday with requirements analysis, design, and delivery of products
+          • Prepare network diagrams, operating procedures and solution architecture design documents
+          • Enable application monitoring through integration with the ELK stack
   - title: Education
     layout: list
     content:
