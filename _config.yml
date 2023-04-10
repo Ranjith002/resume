@@ -153,7 +153,7 @@ content:
     content:
       - layout: top-left
         title: Amrita School of Engineering
-      - layout: top-right
+        layout: top-right
         sub_title: Bachelor of Technology
         caption: 2005 - 2009  
         #quote: >
