@@ -1,6 +1,6 @@
 # Site
-repository: ranjith002/resume
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: Ranjith002/resume
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -16,7 +16,7 @@ phone: +61 424 031 817
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
