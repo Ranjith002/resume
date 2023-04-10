@@ -78,6 +78,22 @@ content:
           - Aid transformation project to Workday with requirements analysis, design, and delivery of products
           - Prepare network diagrams, operating procedures and solution architecture design documents
           - Enable application monitoring through integration with the ELK stack
+        ---
+        title: Australian National University (ANU)
+        sub_title: Technical Consultant (ERP/Database)
+        caption: Sep 2019 - Jun 2021
+        # link: Link to company (optional)
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Performed ERP (PeopleSoft) upgrades across Finance, Campus Solutions and Human Capital Management systems
+          - Architected and built resilient database clusters and VMs for the university’s top tier systems
+          - Designed a security data masking solution for PII (Personally Identifiable Information)
+          - Implemented automation processes that improved efficiency by 95% for Business users
+          - Led the application of regulatory updates for Payroll and Student data
+          - Proactively engaged with business, infrastructure and development teams for issue resolution
+          - Helped implement CI/CD pipelines with focus on governance and auditing requirements
+          - Delivered efficiency improvements to performance, integrations and testing frameworks
   - title: Education
     layout: list
     content:
